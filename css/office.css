@@ -1,20 +1,45 @@
 
-.section2 { background: url(../image/office/bg1.jpg) 50%;}
-.section3 { background: url(../image/office/bg5.jpg) 50%;}
-.section4 { background: url(../image/office/photo-01.jpg) 50%;}
+.section2 {
+    background: url(../image/office/bg1.jpg) 50%;
+}
+
+.section3 {
+    background: url(../image/office/bg5.jpg) 50%;
+}
+
+.section4 {
+    background: url(../image/office/photo-01.jpg) 50%;
+}
+
+.section5 {
+    background-color: #3c3f41
+}
 
 /*.living img{*/
-    /*position: absolute;*/
+/*position: absolute;*/
 /*}*/
 
-.living .dream{
+.living .dream {
 
 }
 
-.living .join_us{
+.living .join_us {
 
 }
 
-.living .offer{
+.living .offer {
     width: 19rem;
+}
+
+.contact-us-div {
+    text-align: center;
+    color: #ffffff;
+}
+
+.contact-us-div-footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    color:#ffffff;
 }
